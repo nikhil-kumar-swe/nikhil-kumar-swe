@@ -9,7 +9,7 @@ I am a Computer Science graduate and entry-level Web & Backend Developer based i
 - **Languages:** PHP, C++, JavaScript, Python, HTML5, CSS3
 - **Frameworks & Libraries:** Laravel (Blade, Eloquent, Breeze, Middleware), Tailwind CSS
 - **Databases:** PostgreSQL, MySQL
-- **Tools & Platforms:** Git, GitHub, Vite, Artisan, Acode
+- **Tools & Platforms:** Git, GitHub, Vite, Artisan
 
 ---
 
